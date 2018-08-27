@@ -8,6 +8,7 @@ public class Pru {
 		System.out.println("Otra vez más");
 		System.out.println("Mas");
 		System.out.println("Mas");
+		System.out.println("Menos");
 	}
 
 }
